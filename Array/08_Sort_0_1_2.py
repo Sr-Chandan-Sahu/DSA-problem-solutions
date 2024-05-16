@@ -1,4 +1,4 @@
-def sortColors(self, nums: List[int]) -> None:
+def sortColors(self, nums):
 
         red, white, blue = 0, 0, len(nums) - 1
 
