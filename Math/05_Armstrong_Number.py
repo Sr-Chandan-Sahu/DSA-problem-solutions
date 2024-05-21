@@ -11,4 +11,4 @@ def checkArmstrongNumber(num):
     else:
         return False
 
-print(checkArmstrongNumber(152))
+print(checkArmstrongNumber(153))
